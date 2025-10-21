@@ -1,9 +1,9 @@
 body{
-    border: 3px solid black;
     background-image: url("index_background/pu.jpg");
     background-size: cover;
 
-    min-height: 800px;
+    
+    min-height: 1600px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -113,6 +113,9 @@ div.box{
     justify-content: center;
     align-items: center;
 }
+#box1{
+    align-self: flex-start;
+}
 /* another way to center
 table, td{
 
@@ -122,5 +125,4 @@ table, td{
     margin-bottom: auto;
 }
 */
-
 
