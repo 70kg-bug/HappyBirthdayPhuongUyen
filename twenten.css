@@ -1,4 +1,5 @@
 body{
+    border: 3px solid black;
     background-image: url("index_background/pu.jpg");
     background-size: cover;
 
@@ -121,4 +122,5 @@ table, td{
     margin-bottom: auto;
 }
 */
+
 
